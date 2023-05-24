@@ -39,8 +39,7 @@ I am always open to connecting with fellow developers and industry professionals
 
 Thank you for taking the time to visit my GitHub profile and review my work. I look forward to hearing from you and potentially collaborating on exciting projects!
 
-Languages and Tools:
-css3 express figma html5 javascript mssql nodejs pandas postgresql postman python react redux nodemailer
+
 <!--
 **carlavega13/carlavega13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
