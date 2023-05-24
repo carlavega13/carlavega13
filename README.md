@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi Im Carla Vega 👋
+Im a full stack developer and Im open to work!
+
+Feel free to watch my project and connect with me!
+💬 Ask me about React, Redux, Express, Sequelize, SQL, Javascript
+📫 Reach me: carlavega231323@gmail.com
+
 
 <!--
 **carlavega13/carlavega13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
