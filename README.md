@@ -2,7 +2,7 @@
 Carla Vega - Full Stack Developer
 
 
-Introduction
+
 Hi, I'm Carla Vega, a passionate and experienced full stack developer. I am currently open to new opportunities and excited to work on challenging projects.
 
 🔭 Skills:
